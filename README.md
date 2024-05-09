@@ -1,6 +1,6 @@
 # Digit_image_classification_model
 
-### 💡 숫자 이미지 분류 모델 개발(DenseNet121, vgg16, mobilenet, DenseNet201, ConvMixer)
+### 💡 숫자 이미지 분류 모델 개발 (DenseNet121, vgg16, mobilenet, DenseNet201, ConvMixer)
 
 #### 개요
 강의에서 배운 CNN과 전이학습을 이용하며, 직접 숫자 이미지를 인터넷에서 수집하고 전처리를 진행하여 숫자 이미지 분류 딥러닝 모델을 개발합니다. 
